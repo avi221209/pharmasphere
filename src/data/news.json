@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "title": "FDA Approves New Alzheimer's Drug Showing Significant Cognitive Improvement",
+    "summary": "The FDA has granted accelerated approval to a novel monoclonal antibody that demonstrated a 35% reduction in cognitive decline in Phase 3 clinical trials among early Alzheimer's patients.",
+    "category": "FDA Approvals",
+    "date": "2026-03-28",
+    "readTime": "4 min read",
+    "image": "https://images.unsplash.com/photo-1576671081837-49000212a370?w=400&q=80",
+    "tags": ["FDA", "Alzheimer's", "Neurology", "Clinical Trials"]
+  },
+  {
+    "id": 2,
+    "title": "WHO Updates Essential Medicines List: 20 New Drugs Added for 2025",
+    "summary": "The World Health Organization has expanded its Model Essential Medicines List to include treatments for tuberculosis, cancer, and rare diseases, improving access to critical medications globally.",
+    "category": "Global Health",
+    "date": "2026-03-25",
+    "readTime": "5 min read",
+    "image": "https://images.unsplash.com/photo-1584820927498-cfe5211fd8bf?w=400&q=80",
+    "tags": ["WHO", "Essential Medicines", "Global Access", "Policy"]
+  },
+  {
+    "id": 3,
+    "title": "Metformin Demonstrates Anti-Aging Properties in Groundbreaking Study",
+    "summary": "Researchers at Stanford University have published evidence suggesting metformin may extend healthspan by activating AMPK pathways, sparking interest in geroscience and longevity research.",
+    "category": "Research",
+    "date": "2026-03-22",
+    "readTime": "6 min read",
+    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?w=400&q=80",
+    "tags": ["Metformin", "Anti-aging", "Research", "AMPK"]
+  },
+  {
+    "id": 4,
+    "title": "GLP-1 Receptor Agonists Reshape Obesity Treatment Landscape in 2025",
+    "summary": "Semaglutide and tirzepatide continue to dominate obesity pharmacotherapy, with new long-acting formulations offering once-monthly dosing now entering Phase 3 trials.",
+    "category": "Pharmacotherapy",
+    "date": "2026-03-18",
+    "readTime": "5 min read",
+    "image": "https://images.unsplash.com/photo-1559757175-0eb30cd8c063?w=400&q=80",
+    "tags": ["GLP-1", "Obesity", "Semaglutide", "Diabetes"]
+  },
+  {
+    "id": 5,
+    "title": "Antibiotic Resistance: New Phage Therapy Shows Promise Against Drug-Resistant Bacteria",
+    "summary": "A clinical trial published in The Lancet demonstrates that bacteriophage therapy achieves 78% success rate against carbapenem-resistant Enterobacteriaceae (CRE), offering new hope in the AMR crisis.",
+    "category": "Antimicrobial Resistance",
+    "date": "2026-03-15",
+    "readTime": "7 min read",
+    "image": "https://images.unsplash.com/photo-1576091160550-2173dba999ef?w=400&q=80",
+    "tags": ["AMR", "Phage Therapy", "Antibiotics", "Infectious Disease"]
+  },
+  {
+    "id": 6,
+    "title": "Digital Pharmacies Surge: Tele-Pharmacy Services Expand Access to Rural Areas",
+    "summary": "A new report highlights 200% growth in tele-pharmacy adoption across South Asia and Africa, dramatically improving medication adherence and reducing prescription errors in underserved communities.",
+    "category": "Digital Health",
+    "date": "2026-03-11",
+    "readTime": "4 min read",
+    "image": "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?w=400&q=80",
+    "tags": ["Digital Health", "Tele-pharmacy", "Rural Health", "Access"]
+  }
+]

@@ -1,0 +1,337 @@
+[
+  {
+    "id": "diabetes",
+    "name": "Diabetes Mellitus",
+    "slug": "diabetes",
+    "prevalence": "537 million adults worldwide",
+    "category": "Metabolic",
+    "image": "https://images.unsplash.com/photo-1559757175-0eb30cd8c063?w=400&q=80",
+    "summary": "A chronic metabolic disorder characterized by elevated blood glucose levels due to insufficient insulin production or action.",
+    "symptoms": [
+      "Frequent urination (polyuria)",
+      "Excessive thirst (polydipsia)",
+      "Unexplained weight loss",
+      "Blurred vision",
+      "Fatigue and weakness",
+      "Slow-healing sores",
+      "Frequent infections"
+    ],
+    "causes": [
+      "Type 1: Autoimmune destruction of beta cells",
+      "Type 2: Insulin resistance and relative insulin deficiency",
+      "Gestational: Hormonal changes during pregnancy",
+      "Genetic predisposition",
+      "Obesity and sedentary lifestyle",
+      "Age above 45 years"
+    ],
+    "diagnosis": [
+      "Fasting Blood Glucose (FBG) ≥126 mg/dL",
+      "HbA1c ≥6.5%",
+      "2-hour Oral Glucose Tolerance Test (OGTT) ≥200 mg/dL",
+      "Random Blood Glucose ≥200 mg/dL with symptoms"
+    ],
+    "treatment": [
+      "Lifestyle modifications (diet and exercise)",
+      "Oral antidiabetic drugs (Metformin first-line)",
+      "Insulin therapy for Type 1 and advanced Type 2",
+      "Regular blood glucose monitoring",
+      "Management of complications"
+    ],
+    "prevention": [
+      "Maintain healthy body weight",
+      "Regular physical activity (150 min/week)",
+      "Balanced diet low in refined sugars",
+      "Avoid smoking and excessive alcohol",
+      "Regular health screenings"
+    ],
+    "relatedDrugs": ["metformin"]
+  },
+  {
+    "id": "hypertension",
+    "name": "Hypertension",
+    "slug": "hypertension",
+    "prevalence": "1.28 billion adults worldwide",
+    "category": "Cardiovascular",
+    "image": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=400&q=80",
+    "summary": "A chronic condition where blood pressure in the arteries is persistently elevated (≥130/80 mmHg), increasing risk of heart disease, stroke, and kidney failure.",
+    "symptoms": [
+      "Often asymptomatic (silent killer)",
+      "Severe headaches",
+      "Fatigue or confusion",
+      "Vision problems",
+      "Chest pain",
+      "Difficulty breathing",
+      "Irregular heartbeat"
+    ],
+    "causes": [
+      "Primary (essential): Unknown exact cause",
+      "Secondary: Kidney disease, thyroid disorders",
+      "High sodium diet",
+      "Physical inactivity",
+      "Obesity",
+      "Excessive alcohol",
+      "Stress and family history"
+    ],
+    "diagnosis": [
+      "Sphygmomanometer blood pressure measurement",
+      "Ambulatory Blood Pressure Monitoring (ABPM)",
+      "Echocardiogram to assess heart damage",
+      "Urine and blood tests for secondary causes"
+    ],
+    "treatment": [
+      "Lifestyle changes: DASH diet, exercise, weight loss",
+      "ACE inhibitors (e.g., Enalapril)",
+      "Calcium channel blockers (e.g., Amlodipine)",
+      "Beta-blockers",
+      "Diuretics (Hydrochlorothiazide)"
+    ],
+    "prevention": [
+      "Reduce sodium intake (<2.3 g/day)",
+      "Regular aerobic exercise",
+      "Maintain healthy weight",
+      "Limit alcohol consumption",
+      "Manage stress through meditation"
+    ],
+    "relatedDrugs": ["amlodipine"]
+  },
+  {
+    "id": "asthma",
+    "name": "Asthma",
+    "slug": "asthma",
+    "prevalence": "262 million people worldwide",
+    "category": "Respiratory",
+    "image": "https://images.unsplash.com/photo-1584820927498-cfe5211fd8bf?w=400&q=80",
+    "summary": "A chronic inflammatory condition of the airways causing recurrent episodes of wheezing, breathlessness, and coughing, especially at night or early morning.",
+    "symptoms": [
+      "Wheezing",
+      "Shortness of breath",
+      "Chest tightness",
+      "Coughing (especially at night)",
+      "Difficulty speaking in full sentences",
+      "Anxious or worried feeling"
+    ],
+    "causes": [
+      "Allergens (dust mites, pet dander, pollen)",
+      "Air pollution and smoke",
+      "Respiratory infections",
+      "Exercise (exercise-induced asthma)",
+      "Genetic factors",
+      "Occupational exposures"
+    ],
+    "diagnosis": [
+      "Spirometry (FEV1/FVC ratio < 0.7)",
+      "Peak expiratory flow measurement",
+      "Methacholine challenge test",
+      "Allergy skin tests",
+      "FeNO (exhaled nitric oxide) test"
+    ],
+    "treatment": [
+      "Short-acting beta-agonists (SABA) - Salbutamol for rescue",
+      "Inhaled corticosteroids (ICS) - Budesonide",
+      "Long-acting beta-agonists (LABA)",
+      "Leukotriene receptor antagonists (Montelukast)",
+      "Biologics for severe asthma"
+    ],
+    "prevention": [
+      "Avoid known triggers",
+      "Use air purifiers at home",
+      "Vaccinate against flu and pneumococcus",
+      "Monitor peak flow daily",
+      "Maintain good indoor air quality"
+    ],
+    "relatedDrugs": []
+  },
+  {
+    "id": "migraine",
+    "name": "Migraine",
+    "slug": "migraine",
+    "prevalence": "1 billion people worldwide",
+    "category": "Neurological",
+    "image": "https://images.unsplash.com/photo-1545205597-3d9d02c29597?w=400&q=80",
+    "summary": "A complex neurological disorder characterized by recurrent, moderate to severe headaches, often on one side of the head, associated with nausea, vomiting, and sensitivity to light and sound.",
+    "symptoms": [
+      "Throbbing or pulsating headache",
+      "Pain on one side of head (unilateral)",
+      "Nausea and vomiting",
+      "Sensitivity to light (photophobia)",
+      "Sensitivity to sound (phonophobia)",
+      "Visual disturbances (aura in 25%)",
+      "Dizziness"
+    ],
+    "causes": [
+      "Hormonal changes (estrogen fluctuations)",
+      "Stress and anxiety",
+      "Sleep disturbances",
+      "Certain foods (tyramine, alcohol)",
+      "Sensory stimuli (bright lights, strong smells)",
+      "Genetic predisposition",
+      "Changes in weather"
+    ],
+    "diagnosis": [
+      "Clinical diagnosis based on ICHD-3 criteria",
+      "At least 5 attacks lasting 4-72 hours",
+      "MRI/CT to rule out secondary causes",
+      "Headache diary assessment"
+    ],
+    "treatment": [
+      "NSAIDs (Ibuprofen, Naproxen) for mild-moderate",
+      "Triptans (Sumatriptan) for moderate-severe",
+      "Anti-emetics (Metoclopramide)",
+      "Preventive: Propranolol, Topiramate, Amitriptyline",
+      "CGRP antagonists (Erenumab) for chronic migraine"
+    ],
+    "prevention": [
+      "Identify and avoid personal triggers",
+      "Maintain regular sleep schedule",
+      "Stay well-hydrated",
+      "Manage stress with yoga and mindfulness",
+      "Limit caffeine and alcohol"
+    ],
+    "relatedDrugs": ["ibuprofen", "paracetamol"]
+  },
+  {
+    "id": "gerd",
+    "name": "GERD",
+    "slug": "gerd",
+    "prevalence": "20% of Western population",
+    "category": "Gastrointestinal",
+    "image": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=400&q=80",
+    "summary": "Gastroesophageal Reflux Disease — a chronic digestive disorder where stomach acid flows back into the esophagus, causing heartburn and potential esophageal damage.",
+    "symptoms": [
+      "Heartburn (burning sensation in chest)",
+      "Acid regurgitation",
+      "Difficulty swallowing (dysphagia)",
+      "Chronic cough",
+      "Laryngitis or hoarseness",
+      "Nausea after eating",
+      "Chest pain"
+    ],
+    "causes": [
+      "Weak lower esophageal sphincter (LES)",
+      "Hiatal hernia",
+      "Obesity and pregnancy",
+      "Smoking and alcohol",
+      "Certain foods (fatty, spicy foods)",
+      "Lying down after eating",
+      "Medications (NSAIDs, calcium channel blockers)"
+    ],
+    "diagnosis": [
+      "Clinical diagnosis based on symptoms",
+      "Upper GI endoscopy (gold standard)",
+      "24-hour ambulatory pH monitoring",
+      "Esophageal manometry",
+      "Barium swallow test"
+    ],
+    "treatment": [
+      "Proton Pump Inhibitors (Pantoprazole, Omeprazole) - first-line",
+      "H2-receptor antagonists (Ranitidine)",
+      "Antacids for immediate relief",
+      "Prokinetics (Metoclopramide)",
+      "Surgery (Nissen fundoplication) for refractory GERD"
+    ],
+    "prevention": [
+      "Maintain healthy weight",
+      "Avoid trigger foods",
+      "Eat smaller, more frequent meals",
+      "Don't lie down within 3 hours of eating",
+      "Elevate head of bed by 6-8 inches",
+      "Quit smoking"
+    ],
+    "relatedDrugs": ["pantoprazole", "omeprazole"]
+  },
+  {
+    "id": "pcos",
+    "name": "PCOS",
+    "slug": "pcos",
+    "prevalence": "10% of women of reproductive age",
+    "category": "Endocrine",
+    "image": "https://images.unsplash.com/photo-1612349317150-e413f6a5b16d?w=400&q=80",
+    "summary": "Polycystic Ovary Syndrome — a hormonal disorder causing enlarged ovaries with small cysts, irregular periods, and excess androgen levels, affecting fertility and metabolism.",
+    "symptoms": [
+      "Irregular menstrual cycles",
+      "Excess facial/body hair (hirsutism)",
+      "Acne and oily skin",
+      "Weight gain and difficulty losing weight",
+      "Thinning hair or male-pattern baldness",
+      "Difficulty getting pregnant",
+      "Darkening of skin (acanthosis nigricans)"
+    ],
+    "causes": [
+      "Insulin resistance",
+      "Excess androgen production",
+      "Low-grade inflammation",
+      "Genetic factors",
+      "Hormonal imbalances (LH/FSH ratio)"
+    ],
+    "diagnosis": [
+      "Rotterdam criteria (2 of 3): irregular ovulation, hyperandrogenism, polycystic ovaries",
+      "Pelvic ultrasound",
+      "Hormonal blood tests (LH, FSH, testosterone)",
+      "Glucose tolerance test",
+      "Thyroid function tests"
+    ],
+    "treatment": [
+      "Lifestyle modifications (weight loss, exercise)",
+      "Metformin for insulin resistance",
+      "Combined oral contraceptives for menstrual regulation",
+      "Anti-androgens (Spironolactone) for hirsutism",
+      "Clomiphene/Letrozole for ovulation induction"
+    ],
+    "prevention": [
+      "Maintain healthy body weight",
+      "Regular exercise",
+      "Low glycemic index diet",
+      "Manage stress",
+      "Regular gynecological check-ups"
+    ],
+    "relatedDrugs": ["metformin"]
+  },
+  {
+    "id": "tuberculosis",
+    "name": "Tuberculosis",
+    "slug": "tuberculosis",
+    "prevalence": "10 million new cases annually",
+    "category": "Infectious",
+    "image": "https://images.unsplash.com/photo-1584036561566-baf8f5f1b144?w=400&q=80",
+    "summary": "A bacterial infection caused by Mycobacterium tuberculosis, primarily affecting the lungs but can spread to other organs. A leading cause of infectious disease death globally.",
+    "symptoms": [
+      "Persistent cough >3 weeks",
+      "Bloody sputum (hemoptysis)",
+      "Night sweats",
+      "Unexplained weight loss",
+      "Fever (especially afternoon)",
+      "Chest pain",
+      "Fatigue and weakness"
+    ],
+    "causes": [
+      "Mycobacterium tuberculosis bacteria",
+      "Airborne transmission via droplets",
+      "Weakened immune system (HIV, malnutrition)",
+      "Overcrowded living conditions",
+      "Close contact with active TB patients"
+    ],
+    "diagnosis": [
+      "Mantoux tuberculin skin test (TST)",
+      "Interferon-Gamma Release Assays (IGRA)",
+      "Chest X-ray",
+      "Sputum smear microscopy",
+      "GeneXpert MTB/RIF (molecular test)"
+    ],
+    "treatment": [
+      "RIPE regimen: Rifampicin, Isoniazid, Pyrazinamide, Ethambutol",
+      "Intensive phase: 2 months RIPE",
+      "Continuation phase: 4 months RI",
+      "DOT (Directly Observed Therapy)",
+      "MDR-TB: Bedaquiline-based regimens"
+    ],
+    "prevention": [
+      "BCG vaccination at birth",
+      "Isolation of active TB patients",
+      "Improve ventilation in crowded spaces",
+      "HIV treatment to prevent reactivation",
+      "Regular screening in high-risk populations",
+      "Prophylactic Isoniazid for latent TB"
+    ],
+    "relatedDrugs": ["amoxicillin"]
+  }
+]

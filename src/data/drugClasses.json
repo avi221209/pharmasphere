@@ -1,0 +1,98 @@
+[
+  {
+    "id": "antibiotics",
+    "name": "Antibiotics",
+    "description": "Medications that kill or inhibit the growth of bacteria, used to treat bacterial infections.",
+    "icon": "🦠",
+    "color": "from-blue-500 to-cyan-500",
+    "drugCount": 3
+  },
+  {
+    "id": "antihypertensives",
+    "name": "Antihypertensives",
+    "description": "Drugs used to lower blood pressure in patients with hypertension.",
+    "icon": "❤️",
+    "color": "from-red-500 to-pink-500",
+    "drugCount": 1
+  },
+  {
+    "id": "antidiabetics",
+    "name": "Antidiabetics",
+    "description": "Medications used to manage blood sugar levels in patients with diabetes mellitus.",
+    "icon": "💉",
+    "color": "from-green-500 to-emerald-500",
+    "drugCount": 1
+  },
+  {
+    "id": "analgesics",
+    "name": "Analgesics",
+    "description": "Pain-relieving drugs that reduce pain without causing loss of consciousness.",
+    "icon": "💊",
+    "color": "from-yellow-500 to-orange-500",
+    "drugCount": 2
+  },
+  {
+    "id": "antihistamines",
+    "name": "Antihistamines",
+    "description": "Drugs that counteract the effects of histamine, used for allergies and hay fever.",
+    "icon": "🤧",
+    "color": "from-purple-500 to-violet-500",
+    "drugCount": 1
+  },
+  {
+    "id": "antacids",
+    "name": "Antacids / PPI",
+    "description": "Medications that neutralize stomach acid or reduce its production for GERD and ulcers.",
+    "icon": "🫀",
+    "color": "from-orange-500 to-amber-500",
+    "drugCount": 2
+  },
+  {
+    "id": "steroids",
+    "name": "Steroids",
+    "description": "Corticosteroids used for anti-inflammatory and immunosuppressive effects.",
+    "icon": "⚗️",
+    "color": "from-indigo-500 to-blue-500",
+    "drugCount": 0
+  },
+  {
+    "id": "antifungals",
+    "name": "Antifungals",
+    "description": "Drugs that target and destroy fungal cells, treating fungal infections.",
+    "icon": "🍄",
+    "color": "from-teal-500 to-green-500",
+    "drugCount": 0
+  },
+  {
+    "id": "antivirals",
+    "name": "Antivirals",
+    "description": "Medications that inhibit the development of viral infections.",
+    "icon": "🔬",
+    "color": "from-rose-500 to-red-500",
+    "drugCount": 0
+  },
+  {
+    "id": "cardiovascular",
+    "name": "Cardiovascular Drugs",
+    "description": "Medications used to treat conditions affecting the heart and blood vessels.",
+    "icon": "🫀",
+    "color": "from-pink-500 to-rose-500",
+    "drugCount": 1
+  },
+  {
+    "id": "cns",
+    "name": "CNS Drugs",
+    "description": "Central nervous system drugs affecting brain and spinal cord function.",
+    "icon": "🧠",
+    "color": "from-violet-500 to-purple-500",
+    "drugCount": 0
+  },
+  {
+    "id": "respiratory",
+    "name": "Respiratory Drugs",
+    "description": "Medications for treating respiratory conditions such as asthma and COPD.",
+    "icon": "🌬️",
+    "color": "from-sky-500 to-blue-500",
+    "drugCount": 0
+  }
+]

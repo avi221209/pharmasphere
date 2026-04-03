@@ -1,0 +1,692 @@
+[
+  {
+    "id": "paracetamol",
+    "genericName": "Paracetamol",
+    "brandNames": ["Calpol", "Tylenol", "Dolo 650", "Panadol", "Acetaminophen"],
+    "drugClass": "analgesics",
+    "drugClassName": "Analgesics / Antipyretics",
+    "isTrending": true,
+    "isNew": false,
+    "shortUse": "Pain relief and fever reduction",
+    "mechanismOfAction": "Inhibits prostaglandin synthesis centrally in the CNS (primarily COX-3/central COX-1 variant). Raises the pain threshold and acts on the hypothalamic heat-regulating center to reduce fever. Does NOT have significant peripheral anti-inflammatory activity unlike NSAIDs.",
+    "indications": [
+      "Mild to moderate pain (headache, dental pain, muscle aches, menstrual cramps)",
+      "Fever reduction (antipyresis)",
+      "Osteoarthritis pain management",
+      "Post-operative pain (mild)",
+      "Pain in patients contraindicated for NSAIDs (e.g., peptic ulcer disease)"
+    ],
+    "contraindications": [
+      "Severe hepatic impairment or active liver disease",
+      "Hypersensitivity to paracetamol",
+      "Severe renal impairment (use with caution)",
+      "Chronic alcohol use disorder (relative contraindication)"
+    ],
+    "sideEffects": [
+      "Generally well-tolerated at therapeutic doses",
+      "Hepatotoxicity with overdose (>3-4g/day chronic, >10g acute)",
+      "Rare: skin rash, hypersensitivity reactions",
+      "Nephrotoxicity with prolonged high-dose use",
+      "Thrombocytopenia (very rare)"
+    ],
+    "drugInteractions": [
+      "Warfarin: enhanced anticoagulant effect with regular high-dose use",
+      "Isoniazid: increased risk of hepatotoxicity",
+      "Rifampicin, phenytoin, carbamazepine: accelerate paracetamol metabolism (induces CYP2E1)",
+      "Alcohol: significantly increased hepatotoxicity risk",
+      "Metoclopramide: increases rate of absorption"
+    ],
+    "dosageForms": ["Tablets (500mg, 650mg)", "Capsules", "Oral suspension (125mg/5ml, 250mg/5ml)", "Suppositories", "IV infusion (10mg/ml)"],
+    "adultDose": "500–1000 mg every 4–6 hours; maximum 4 g/day",
+    "pediatricDose": "10–15 mg/kg every 4–6 hours; maximum 60–75 mg/kg/day",
+    "pregnancySafety": "FDA Category B — Generally considered safe throughout pregnancy at recommended doses. Preferred analgesic/antipyretic in pregnancy.",
+    "routeOfAdministration": ["Oral (PO)", "Rectal (suppository)", "Intravenous (IV)"],
+    "halfLife": "1.5 to 3 hours (increases significantly in hepatic impairment)",
+    "storageConditions": "Store below 25°C in a dry place, protected from light and moisture. Keep out of reach of children.",
+    "monitoringParameters": [
+      "Liver function tests (ALT, AST) in high-risk patients",
+      "Renal function with prolonged use",
+      "Signs and symptoms of hepatotoxicity: nausea, vomiting, right upper quadrant pain",
+      "Monitor INR if on concurrent warfarin therapy"
+    ],
+    "patientCounselling": [
+      "Do not exceed the maximum daily dose of 4g — check all products for paracetamol content",
+      "Avoid alcohol while taking paracetamol",
+      "If you have liver disease, consult your doctor before use",
+      "Take exactly as prescribed — more is not better and can be dangerous",
+      "Paracetamol is NOT an anti-inflammatory and won't help with inflammation"
+    ],
+    "faq": [
+      {
+        "question": "Can I take Paracetamol on an empty stomach?",
+        "answer": "Yes. Unlike NSAIDs, Paracetamol can safely be taken on an empty stomach as it does not irritate the gastric mucosa."
+      },
+      {
+        "question": "What is the maximum dose in a day?",
+        "answer": "For healthy adults: 4g (4000mg) per day. For elderly, those with hepatic impairment, or chronic alcohol users: 2g (2000mg) per day maximum."
+      },
+      {
+        "question": "Is Paracetamol safe during pregnancy?",
+        "answer": "Yes, it is considered the safest OTC analgesic/antipyretic during pregnancy. However, prolonged high-dose use should be discussed with a healthcare provider."
+      }
+    ],
+    "relatedDiseases": ["migraine", "hypertension"]
+  },
+  {
+    "id": "ibuprofen",
+    "genericName": "Ibuprofen",
+    "brandNames": ["Brufen", "Advil", "Motrin", "Nurofen", "Combiflam"],
+    "drugClass": "analgesics",
+    "drugClassName": "NSAIDs (Non-Steroidal Anti-Inflammatory Drugs)",
+    "isTrending": true,
+    "isNew": false,
+    "shortUse": "Anti-inflammatory, pain relief, fever",
+    "mechanismOfAction": "Non-selective, reversible inhibitor of COX-1 and COX-2 enzymes. Blocks prostaglandin synthesis, reducing inflammation, pain, and fever. COX-2 inhibition reduces prostanoid-mediated inflammation; COX-1 inhibition reduces gastroprotective prostaglandins (potential GI side effect).",
+    "indications": [
+      "Mild to moderate pain (dental, headache, musculoskeletal)",
+      "Fever reduction",
+      "Osteoarthritis and rheumatoid arthritis",
+      "Dysmenorrhea (menstrual pain)",
+      "Patent ductus arteriosus closure in neonates (IV formulation)",
+      "Migraine (with antiemetic)"
+    ],
+    "contraindications": [
+      "Active peptic ulcer disease or GI bleeding",
+      "Severe renal impairment (CrCl <30 ml/min)",
+      "Severe hepatic impairment",
+      "Hypersensitivity to ibuprofen or aspirin (NSAIDs)",
+      "Aspirin-exacerbated respiratory disease (AERD)",
+      "Third trimester of pregnancy",
+      "Coronary artery bypass graft (CABG) perioperative period"
+    ],
+    "sideEffects": [
+      "GI: nausea, dyspepsia, gastric ulceration, GI bleeding",
+      "Cardiovascular: increased risk of MI and stroke (especially high-dose, long-term)",
+      "Renal: fluid retention, reduced renal blood flow, acute kidney injury",
+      "Neurological: headache, dizziness",
+      "Skin: rash, rare Stevens-Johnson syndrome",
+      "Hepatic: elevation of liver enzymes (rare)"
+    ],
+    "drugInteractions": [
+      "Aspirin: reduced cardioprotective effect of low-dose aspirin",
+      "Warfarin/anticoagulants: increased bleeding risk",
+      "ACE inhibitors/ARBs: reduced antihypertensive effect, increased renal toxicity",
+      "Diuretics: reduced diuretic effect, risk of acute kidney injury",
+      "Lithium: increased lithium levels (decreased renal clearance)",
+      "Methotrexate: decreased renal elimination → toxicity"
+    ],
+    "dosageForms": ["Tablets (200mg, 400mg, 600mg, 800mg)", "Syrup (100mg/5ml)", "Topical gel (5%)", "IV injection"],
+    "adultDose": "400–600 mg every 6–8 hours; maximum 2400 mg/day (OTC) or 3200 mg/day (prescription)",
+    "pediatricDose": "5–10 mg/kg every 6–8 hours; maximum 40 mg/kg/day (children > 6 months)",
+    "pregnancySafety": "FDA Category C (1st/2nd trimester), Category D (3rd trimester). Avoid in 3rd trimester — premature closure of ductus arteriosus.",
+    "routeOfAdministration": ["Oral (PO)", "Topical (gel)", "Intravenous (IV)", "Rectal (suppository)"],
+    "halfLife": "1.8 to 2 hours",
+    "storageConditions": "Store at room temperature 15–25°C. Keep dry and away from direct sunlight.",
+    "monitoringParameters": [
+      "Renal function (BUN, Serum creatinine) — especially in elderly",
+      "Blood pressure",
+      "GI symptoms (assess for occult bleeding)",
+      "CBC (long-term use)",
+      "Liver function tests"
+    ],
+    "patientCounselling": [
+      "Always take with food or milk to reduce stomach upset",
+      "Do not use for more than 10 days for pain without medical advice",
+      "Report any black/tarry stools, which may indicate GI bleeding",
+      "Avoid in patients with history of heart attack or stroke",
+      "Drink adequate fluids and avoid dehydration"
+    ],
+    "faq": [
+      {
+        "question": "Can I take Ibuprofen with Paracetamol?",
+        "answer": "Yes! Ibuprofen and Paracetamol work through different mechanisms and can be taken together safely. They can be alternated for better pain control. However, follow recommended doses for each."
+      },
+      {
+        "question": "Why should I avoid Ibuprofen on an empty stomach?",
+        "answer": "Ibuprofen inhibits COX-1, reducing gastric-protective prostaglandins. This makes the stomach lining vulnerable to acid damage. Always take with food to minimize GI irritation."
+      },
+      {
+        "question": "Is Ibuprofen safe for children?",
+        "answer": "Ibuprofen is approved for children >6 months of age for fever and pain. Never use in infants <6 months or when the child is dehydrated. Always use weight-based dosing."
+      }
+    ],
+    "relatedDiseases": ["migraine", "hypertension"]
+  },
+  {
+    "id": "amoxicillin",
+    "genericName": "Amoxicillin",
+    "brandNames": ["Mox", "Amoxil", "Trimox", "Novamox", "Augmentin (with clavulanate)"],
+    "drugClass": "antibiotics",
+    "drugClassName": "Aminopenicillins (Beta-lactam antibiotics)",
+    "isTrending": false,
+    "isNew": false,
+    "shortUse": "Broad-spectrum antibiotic for bacterial infections",
+    "mechanismOfAction": "Inhibits bacterial cell wall synthesis by binding to Penicillin-Binding Proteins (PBPs), which are enzymes responsible for cross-linking peptidoglycan chains in the bacterial cell wall. This leads to cell wall weakening and osmotic lysis of the bacteria. It is bactericidal.",
+    "indications": [
+      "Community-acquired pneumonia (CAP) — first-line",
+      "Acute otitis media",
+      "Streptococcal pharyngitis/tonsillitis",
+      "Urinary tract infections (uncomplicated)",
+      "Sinusitis",
+      "H. pylori eradication (triple therapy: Amoxicillin + Clarithromycin + PPI)",
+      "Skin and soft tissue infections",
+      "Prophylaxis for infective endocarditis"
+    ],
+    "contraindications": [
+      "Hypersensitivity to amoxicillin or any penicillin",
+      "History of serious allergic reaction (anaphylaxis) to any beta-lactam",
+      "Infectious mononucleosis (risk of maculopapular rash)"
+    ],
+    "sideEffects": [
+      "GI: diarrhea, nausea, vomiting (most common)",
+      "Hypersensitivity: rash, urticaria, serum sickness (1-5%)",
+      "Severe: anaphylaxis (<0.1%), Stevens-Johnson syndrome",
+      "Superinfection (Candida) with prolonged use",
+      "Antibiotic-associated diarrhea / C. difficile colitis"
+    ],
+    "drugInteractions": [
+      "Methotrexate: amoxicillin reduces renal excretion → increased toxicity",
+      "Oral contraceptives: may reduce efficacy (mechanism debated, advise additional contraception)",
+      "Warfarin: possible increased anticoagulant effect",
+      "Probenecid: inhibits renal tubular secretion of amoxicillin → increased levels",
+      "Allopurinol: increased incidence of rash"
+    ],
+    "dosageForms": ["Capsules (250mg, 500mg)", "Tablets (875mg)", "Oral suspension (125mg/5ml, 250mg/5ml)", "Powder for injection"],
+    "adultDose": "250–500 mg every 8 hours, or 500–875 mg every 12 hours (depending on indication severity). Duration: 5–14 days.",
+    "pediatricDose": "25–45 mg/kg/day in divided doses every 8 or 12 hours (high-dose 80–90 mg/kg/day for AOM/CAP)",
+    "pregnancySafety": "FDA Category B — Considered safe during pregnancy. Commonly used for UTI and other infections in pregnancy.",
+    "routeOfAdministration": ["Oral (PO)", "Intravenous (IV — amoxicillin sodium)", "Intramuscular (IM)"],
+    "halfLife": "1 to 1.5 hours (prolonged to 7–20 hours in severe renal failure)",
+    "storageConditions": "Capsules: store below 25°C. Reconstituted oral suspension: refrigerate and use within 14 days.",
+    "monitoringParameters": [
+      "Signs of allergic reaction (monitor for 30 min after first dose in clinical settings)",
+      "Renal function (dose adjustment for CrCl < 30 ml/min)",
+      "Liver function (with Augmentin combination — hepatotoxicity risk)",
+      "Culture and sensitivity to guide therapy",
+      "Signs of superinfection (oral thrush, vaginal candidiasis)"
+    ],
+    "patientCounselling": [
+      "Complete the full course even if you feel better — stopping early promotes resistance",
+      "Can be taken with or without food",
+      "Report any rash, especially if widespread — it may signal a serious allergic reaction",
+      "Diarrhea is common; contact your doctor if it is severe or bloody",
+      "Keep the suspension in the fridge and shake well before use"
+    ],
+    "faq": [
+      {
+        "question": "What is the difference between Amoxicillin and Augmentin?",
+        "answer": "Augmentin is Amoxicillin + Clavulanate. Clavulanate is a beta-lactamase inhibitor that protects amoxicillin from being destroyed by resistant bacteria that produce beta-lactamase enzymes, extending its spectrum of activity."
+      },
+      {
+        "question": "If I'm allergic to Penicillin, can I use Amoxicillin?",
+        "answer": "No. If you have a true penicillin allergy (especially anaphylaxis), Amoxicillin should be avoided as it is a penicillin-type antibiotic. Inform your doctor of your allergy; alternatives like macrolides or doxycycline may be used."
+      },
+      {
+        "question": "Why shouldn't Amoxicillin be used for viral infections?",
+        "answer": "Antibiotics only work against bacteria. Viral infections like the common cold and flu cannot be treated with antibiotics. Inappropriate use contributes to antibiotic resistance."
+      }
+    ],
+    "relatedDiseases": ["tuberculosis", "asthma"]
+  },
+  {
+    "id": "metformin",
+    "genericName": "Metformin",
+    "brandNames": ["Glucophage", "Glycomet", "Fortamet", "Glumetza", "Riomet"],
+    "drugClass": "antidiabetics",
+    "drugClassName": "Biguanides (Antidiabetic agents)",
+    "isTrending": true,
+    "isNew": false,
+    "shortUse": "First-line treatment for Type 2 Diabetes",
+    "mechanismOfAction": "Primarily activates AMP-activated protein kinase (AMPK), reducing hepatic glucose production (gluconeogenesis) — the dominant mechanism. Also improves peripheral insulin sensitivity, reduces intestinal glucose absorption, and alters the gut microbiome. Does NOT stimulate insulin secretion (no hypoglycemia risk as monotherapy).",
+    "indications": [
+      "Type 2 Diabetes Mellitus — first-line pharmacological therapy",
+      "Prediabetes (prevention/delay of T2DM)",
+      "Polycystic Ovary Syndrome (PCOS) — off-label, improves insulin sensitivity",
+      "Gestational diabetes (off-label alternative to insulin)",
+      "Weight management in patients with insulin resistance"
+    ],
+    "contraindications": [
+      "eGFR < 30 ml/min/1.73m² (severe renal impairment) — withhold",
+      "Metabolic acidosis or diabetic ketoacidosis",
+      "Iodinated contrast media administration (withhold 48 hours perioperatively)",
+      "Severe hepatic impairment",
+      "Congestive heart failure requiring pharmacological treatment (relative)"
+    ],
+    "sideEffects": [
+      "GI (most common): nausea, diarrhea, vomiting, flatulence, abdominal discomfort (dose-dependent)",
+      "Lactic acidosis (rare but serious, especially in renal/hepatic impairment)",
+      "Vitamin B12 deficiency with long-term use (impairs IF-B12 complex absorption)",
+      "Metallic taste",
+      "Weight neutral (modest weight reduction possible)"
+    ],
+    "drugInteractions": [
+      "Iodinated contrast agents: risk of contrast-induced nephropathy → accumulation (withhold)",
+      "Alcohol: increases lactic acidosis risk",
+      "Cimetidine: increases metformin blood levels (inhibits renal tubular secretion)",
+      "Carbonic anhydrase inhibitors (Topiramate): increased lactic acidosis risk",
+      "Diuretics and NSAIDs: may worsen renal function"
+    ],
+    "dosageForms": ["Immediate-release tablets (500mg, 850mg, 1000mg)", "Extended-release tablets/capsules (500mg, 750mg, 1000mg)", "Oral solution (500mg/5ml — Riomet)"],
+    "adultDose": "Start: 500mg once or twice daily with meals. Titrate by 500mg weekly. Usual maintenance: 1500–2000mg/day. Maximum: 2550mg/day (IR) or 2000mg/day (XR).",
+    "pediatricDose": "≥10 years: 500mg twice daily with meals. Titrate to max 2000mg/day.",
+    "pregnancySafety": "FDA Category B — Increasingly used in gestational diabetes. Some studies show it is safe; however, concerns about long-term effects for offspring are under ongoing investigation.",
+    "routeOfAdministration": ["Oral (PO only)"],
+    "halfLife": "4 to 8 hours (plasma); terminal half-life: 9–17 hours due to distribution in erythrocytes",
+    "storageConditions": "Store at 20–25°C. Protect from moisture. Extended-release formulations: store at room temperature.",
+    "monitoringParameters": [
+      "HbA1c every 3 months until target achieved, then every 6 months",
+      "Renal function (eGFR/serum creatinine) before initiation and annually",
+      "Vitamin B12 levels every 1–2 years (especially with long-term use)",
+      "Folic acid levels (related B12 deficiency)",
+      "Signs of lactic acidosis: myalgia, respiratory distress, abdominal pain, hypothermia"
+    ],
+    "patientCounselling": [
+      "Take with or immediately after meals to reduce GI side effects",
+      "GI side effects are usually temporary and improve over 2–4 weeks",
+      "Do not skip meals — while metformin alone rarely causes hypoglycemia, skipping meals may cause problems",
+      "Inform your doctor if you are having any imaging with contrast dye",
+      "Take Vitamin B12 supplements if recommended by your healthcare provider",
+      "Limit alcohol intake while on Metformin"
+    ],
+    "faq": [
+      {
+        "question": "Does Metformin cause hypoglycemia (low blood sugar)?",
+        "answer": "No, not as monotherapy. Metformin works by reducing glucose production, not by forcing insulin release. This makes it 'euglycemic' — it lowers elevated glucose without causing hypoglycemia. Risk increases only when combined with sulfonylureas or insulin."
+      },
+      {
+        "question": "Why should Metformin be stopped before surgery or CT scan with contrast?",
+        "answer": "Iodinated contrast dye can affect kidney function temporarily. If kidneys are impaired, metformin can accumulate leading to fatal lactic acidosis. Standard practice is to withhold metformin for 48 hours before and after contrast procedures."
+      },
+      {
+        "question": "Can Metformin help with weight loss?",
+        "answer": "Metformin is weight-neutral to mildly weight-reducing. It may help maintain or slightly reduce weight, partly by reducing appetite and altering gut hormones. It is NOT a weight loss drug but may assist with weight management as a side benefit."
+      }
+    ],
+    "relatedDiseases": ["diabetes", "pcos"]
+  },
+  {
+    "id": "pantoprazole",
+    "genericName": "Pantoprazole",
+    "brandNames": ["Pantop", "Protonix", "Pantocid", "Tecta", "Pantoloc"],
+    "drugClass": "antacids",
+    "drugClassName": "Proton Pump Inhibitors (PPIs)",
+    "isTrending": false,
+    "isNew": false,
+    "shortUse": "Treats GERD, peptic ulcers, and excess acid",
+    "mechanismOfAction": "Irreversibly inhibits the H+/K+ ATPase enzyme (proton pump) on the secretory surface of parietal cells in the stomach. This is the final step in gastric acid secretion. Being a prodrug, pantoprazole is activated in the acidic environment of the parietal cell secretory canaliculi to form sulfenamide, which binds covalently to cysteine residues on the proton pump.",
+    "indications": [
+      "Gastroesophageal Reflux Disease (GERD)",
+      "Erosive esophagitis",
+      "Peptic ulcer disease (gastric and duodenal ulcers)",
+      "H. pylori eradication (as part of triple/quadruple therapy)",
+      "Zollinger-Ellison syndrome (hypersecretory condition)",
+      "Prevention of NSAID-associated ulcers",
+      "Stress ulcer prophylaxis in ICU patients"
+    ],
+    "contraindications": [
+      "Hypersensitivity to pantoprazole or any benzimidazole PPI",
+      "Concomitant use with rilpivirine-containing antiretroviral regimens",
+      "Severe hepatic impairment (dose adjustment needed)"
+    ],
+    "sideEffects": [
+      "Common: headache, diarrhea, nausea, abdominal pain, flatulence",
+      "Long-term risks: hypomagnesemia, hypocalcemia, Vitamin B12 deficiency",
+      "C. difficile-associated diarrhea (increased risk with PPIs)",
+      "Osteoporosis and hip fractures with long-term use",
+      "Rare: acute interstitial nephritis (AIN)",
+      "Fundic gland polyps (benign)"
+    ],
+    "drugInteractions": [
+      "Clopidogrel: PPIs may reduce antiplatelet effect (metabolized via CYP2C19)",
+      "Rilpivirine/Atazanavir: PPIs reduce absorption significantly",
+      "Methotrexate: PPIs may increase methotrexate toxicity",
+      "Digoxin/Nifedipine: increased drug levels",
+      "Iron/Calcium supplements: reduced absorption (separate by 2 hours)"
+    ],
+    "dosageForms": ["Tablets (20mg, 40mg)", "Delayed-release granules", "IV powder for injection (40mg vial)", "Oral suspension"],
+    "adultDose": "GERD: 20–40mg once daily before breakfast. Peptic ulcer: 40mg once daily for 4–8 weeks. IV: 40–80mg daily.",
+    "pediatricDose": "≥5 years (GERD): 15–39 kg: 20mg/day; ≥40 kg: 40mg/day (delayed-release tablets).",
+    "pregnancySafety": "FDA Category B — Generally considered low risk. Used when benefits outweigh risks, as GERD is common in pregnancy.",
+    "routeOfAdministration": ["Oral (PO)", "Intravenous (IV)"],
+    "halfLife": "1 to 2 hours (despite short half-life, duration of action is 24+ hours due to irreversible binding)",
+    "storageConditions": "Tablets: store at 20–25°C, in original packaging, protect from light. IV vials: store at room temperature; reconstituted solution: use within 6 hours.",
+    "monitoringParameters": [
+      "Serum magnesium (with long-term use >1 year)",
+      "Serum calcium and Vitamin D (osteoporosis risk)",
+      "Vitamin B12 levels in patients on long-term therapy",
+      "Symptom resolution and healing (upper GI endoscopy if needed)",
+      "Kidney function (risk of AIN)"
+    ],
+    "patientCounselling": [
+      "Take 30–60 minutes BEFORE breakfast for optimal efficacy",
+      "Swallow tablets whole — do not crush, chew, or split",
+      "PPIs are meant for short-term use; long-term use requires medical supervision",
+      "Lifestyle modifications are essential: avoid trigger foods, alcohol, smoking; elevate head of bed",
+      "Do not stop suddenly as symptoms may return; taper under medical guidance"
+    ],
+    "faq": [
+      {
+        "question": "Why do I need to take Pantoprazole before breakfast?",
+        "answer": "PPIs are most effective when taken 30–60 minutes before the first meal because parietal cell proton pumps are most active during meal stimulation. Taking it before breakfast ensures maximum pump inhibition when you eat."
+      },
+      {
+        "question": "Can I take Pantoprazole long-term?",
+        "answer": "Pantoprazole is safe short-term. Long-term use (>1 year) increases risks of hypomagnesemia, bone loss, B12 deficiency, and C. difficile infection. Always reassess the need for PPI therapy periodically with your doctor."
+      },
+      {
+        "question": "Is it true that PPIs can mask stomach cancer?",
+        "answer": "Yes, this is a concern. PPIs relieve symptoms of dyspepsia but could mask symptoms of underlying gastric malignancy. Patients with alarm features (weight loss, dysphagia, persistent vomiting) should have endoscopy before starting PPIs."
+      }
+    ],
+    "relatedDiseases": ["gerd"]
+  },
+  {
+    "id": "amlodipine",
+    "genericName": "Amlodipine",
+    "brandNames": ["Norvasc", "Amlopress", "Amlip", "Amlo", "Stamlo"],
+    "drugClass": "antihypertensives",
+    "drugClassName": "Dihydropyridine Calcium Channel Blockers (CCB)",
+    "isTrending": false,
+    "isNew": false,
+    "shortUse": "Hypertension and stable angina treatment",
+    "mechanismOfAction": "Selectively blocks L-type voltage-gated calcium channels in vascular smooth muscle and cardiac muscle. By preventing calcium influx, it causes vasodilation (particularly of peripheral arterioles and coronary arteries), reducing peripheral vascular resistance and lowering blood pressure. Long duration of action due to slow dissociation from channels and plasma protein binding.",
+    "indications": [
+      "Hypertension (first-line, especially for elderly and black patients)",
+      "Stable angina pectoris",
+      "Vasospastic (Prinzmetal's) angina",
+      "Prevention of cardiovascular events (ALLHAT trial evidence)",
+      "Raynaud's phenomenon",
+      "Hypertension in chronic kidney disease"
+    ],
+    "contraindications": [
+      "Severe hypotension (systolic BP < 90 mmHg)",
+      "Cardiogenic shock",
+      "Hemodynamically unstable heart failure with reduced ejection fraction (HFrEF)",
+      "Hypersensitivity to amlodipine or dihydropyridines",
+      "Severe aortic stenosis (relative)"
+    ],
+    "sideEffects": [
+      "Peripheral edema (ankle swelling) — most common, 5–10% of patients",
+      "Flushing and facial redness",
+      "Headache and dizziness (especially at initiation)",
+      "Palpitations and reflex tachycardia",
+      "Gingival hyperplasia (with long-term use)",
+      "Hypotension (especially with other antihypertensives)"
+    ],
+    "drugInteractions": [
+      "Simvastatin: increased simvastatin levels (CYP3A4 inhibition) → limit simvastatin to 20mg",
+      "Cyclosporine: increased cyclosporine levels",
+      "CYP3A4 inhibitors (ketoconazole, clarithromycin): increased amlodipine levels",
+      "CYP3A4 inducers (rifampicin, carbamazepine): reduced amlodipine levels",
+      "Other antihypertensives: additive hypotensive effect"
+    ],
+    "dosageForms": ["Tablets (2.5mg, 5mg, 10mg)"],
+    "adultDose": "Start 5mg once daily. May increase to maximum 10mg once daily. Elderly or hepatic impairment: start 2.5mg/day.",
+    "pediatricDose": "6–17 years (hypertension): 2.5–5mg once daily maximum.",
+    "pregnancySafety": "FDA Category C — Animal studies show adverse effects. Use during pregnancy only if clearly needed. Preferred CCB: Nifedipine (more data). Discontinue before term if possible.",
+    "routeOfAdministration": ["Oral (PO)"],
+    "halfLife": "30 to 50 hours (allows once-daily dosing with steady state reached in 7–8 days)",
+    "storageConditions": "Store at 15–30°C. Protect from moisture. Keep in original container.",
+    "monitoringParameters": [
+      "Blood pressure (regular monitoring at home and clinic)",
+      "Heart rate",
+      "Peripheral edema assessment (daily weight, ankle circumference)",
+      "Renal and hepatic function periodically",
+      "Symptoms of hypotension (dizziness when standing)"
+    ],
+    "patientCounselling": [
+      "Take at the same time each day — morning or evening, with or without food",
+      "Do not stop suddenly as BP may rebound",
+      "Ankle swelling is common — elevate legs, reduce salt intake, and report if severe",
+      "Rise slowly from sitting/lying positions to avoid dizziness",
+      "Avoid grapefruit juice — it inhibits CYP3A4 increasing drug levels",
+      "Monitor BP at home regularly and maintain a log"
+    ],
+    "faq": [
+      {
+        "question": "Why do I have ankle swelling with Amlodipine?",
+        "answer": "Amlodipine causes dilatation of arterioles more than venules. This increases capillary hydrostatic pressure, causing fluid to move into the interstitial space — resulting in dependent edema (ankle swelling). It is not dangerous but can be uncomfortable. Leg elevation and dose reduction may help."
+      },
+      {
+        "question": "Can I eat grapefruit while taking Amlodipine?",
+        "answer": "It's best to avoid grapefruit and grapefruit juice. Grapefruit inhibits CYP3A4 enzymes in the gut wall, which metabolize amlodipine. This can increase amlodipine blood levels, potentially causing excessive blood pressure lowering."
+      },
+      {
+        "question": "How long does it take for Amlodipine to work?",
+        "answer": "Initial BP reduction is seen within hours of the first dose, but full steady-state effects take 7–8 days due to its long half-life (30–50 hours). This is why dose changes should be evaluated after 7–14 days."
+      }
+    ],
+    "relatedDiseases": ["hypertension"]
+  },
+  {
+    "id": "atorvastatin",
+    "genericName": "Atorvastatin",
+    "brandNames": ["Lipitor", "Atorva", "Aztor", "Tonact", "Storvas"],
+    "drugClass": "cardiovascular",
+    "drugClassName": "HMG-CoA Reductase Inhibitors (Statins)",
+    "isTrending": true,
+    "isNew": false,
+    "shortUse": "Lowers cholesterol and prevents cardiovascular events",
+    "mechanismOfAction": "Competitively and selectively inhibits HMG-CoA reductase, the rate-limiting enzyme in the mevalonate pathway of hepatic cholesterol biosynthesis. This reduces intracellular cholesterol, upregulates LDL receptors on hepatocytes (increasing LDL uptake from blood), and decreases VLDL secretion. Also has pleiotropic effects: anti-inflammatory, anti-oxidant, improved endothelial function.",
+    "indications": [
+      "Primary hypercholesterolemia and mixed dyslipidemia",
+      "Primary and secondary prevention of cardiovascular events (MI, stroke)",
+      "Familial hypercholesterolemia",
+      "Heterozygous and homozygous familial hypercholesterolemia",
+      "Hypertriglyceridemia",
+      "Diabetic dyslipidemia"
+    ],
+    "contraindications": [
+      "Active liver disease or persistent unexplained elevation of serum transaminases",
+      "Pregnancy and breastfeeding (Category X — teratogenic)",
+      "Myopathy (active)",
+      "Hypersensitivity to Atorvastatin"
+    ],
+    "sideEffects": [
+      "Myalgia (muscle pain) — most common, typically mild",
+      "Myopathy and rhabdomyolysis — rare but serious (risk increased with high-dose, drug interactions)",
+      "Hepatotoxicity: transaminase elevation (usually mild, dose-dependent)",
+      "GI: nausea, constipation, diarrhea",
+      "New-onset diabetes mellitus (class effect of statins)",
+      "Cognitive effects: memory impairment (rare, reversible)"
+    ],
+    "drugInteractions": [
+      "Gemfibrozil: significantly increased myopathy risk (avoid combination)",
+      "Cyclosporine, tacrolimus: greatly increased atorvastatin levels",
+      "CYP3A4 inhibitors (clarithromycin, itraconazole, HIV protease inhibitors): increased statin levels",
+      "Amlodipine: increases atorvastatin exposure by 18% (monitor but usually safe)",
+      "Colchicine: increased myopathy risk",
+      "Warfarin: may increase anticoagulant effect"
+    ],
+    "dosageForms": ["Tablets (10mg, 20mg, 40mg, 80mg)"],
+    "adultDose": "Starting dose: 10–20mg once daily (at any time of day, with or without food). Range: 10–80mg/day. High-intensity: 40–80mg/day for high cardiovascular risk.",
+    "pediatricDose": "10–17 years (heterozygous familial hypercholesterolemia): 10mg/day to max 20mg/day.",
+    "pregnancySafety": "FDA Category X — CONTRAINDICATED in pregnancy. Statins inhibit fetal cholesterol synthesis, essential for fetal development. Discontinue immediately if pregnancy occurs. Use effective contraception.",
+    "routeOfAdministration": ["Oral (PO)"],
+    "halfLife": "14 hours (but HMG-CoA reductase inhibitory activity lasts 20–30 hours due to active metabolites)",
+    "storageConditions": "Store at 20–25°C in a dry place, away from light and moisture.",
+    "monitoringParameters": [
+      "Lipid panel (LDL-C, HDL-C, Total cholesterol, TG) — 4–12 weeks after initiation, then annually",
+      "Liver function tests (ALT/AST) at baseline, then only if symptomatic",
+      "CK (creatine kinase) if myalgia symptoms develop",
+      "Blood glucose/HbA1c (statin-induced diabetes risk)",
+      "Pregnancy status in women of childbearing age"
+    ],
+    "patientCounselling": [
+      "Atorvastatin can be taken at any time of day, with or without food",
+      "Unlike some statins, atorvastatin does NOT require bedtime dosing (CYP3A4 active 24 hours)",
+      "Report any muscle pain, weakness, or dark urine immediately",
+      "Do NOT take if pregnant or planning pregnancy — use reliable contraception",
+      "Lifestyle changes (diet, exercise, smoking cessation) are essential partners to medication",
+      "Do not eat grapefruit or drink grapefruit juice"
+    ],
+    "faq": [
+      {
+        "question": "Do I need to take statins for life?",
+        "answer": "For primary prevention (reducing future CV risk), statins may be lifelong depending on risk profile. For secondary prevention (after MI/stroke), indefinite statin therapy is typically recommended. Your doctor will reassess regularly."
+      },
+      {
+        "question": "Can Atorvastatin cause muscle damage?",
+        "answer": "Yes — myopathy (muscle damage) is a class effect, ranging from mild myalgia to severe rhabdomyolysis (rare <0.1%). Risk increases with high doses, drug interactions (CYP3A4 inhibitors, fibrates), thyroid disorders, and renal impairment. Report muscle pain to your doctor."
+      },
+      {
+        "question": "Can lifestyle changes replace statins?",
+        "answer": "For primary prevention in lower-risk individuals, lifestyle changes (diet, exercise, weight loss) can reduce LDL by 15–30%. However, for high-risk patients (familial hypercholesterolemia, post-MI), statins provide independent benefits beyond lipid lowering (pleiotropic effects) and cannot be adequately replaced."
+      }
+    ],
+    "relatedDiseases": ["hypertension", "diabetes"]
+  },
+  {
+    "id": "cetirizine",
+    "genericName": "Cetirizine",
+    "brandNames": ["Zyrtec", "Allercet", "Cetcip", "Okacet", "Alerid"],
+    "drugClass": "antihistamines",
+    "drugClassName": "Second-generation H1 Antihistamines",
+    "isTrending": false,
+    "isNew": true,
+    "shortUse": "Antiallergic for hay fever, urticaria, and allergic rhinitis",
+    "mechanismOfAction": "Selective peripheral H1 receptor antagonist (inverse agonist). Competes with histamine for H1 receptor binding sites on effector cells. Unlike first-generation antihistamines, cetirizine (being a zwitterion at physiological pH) has minimal penetration of the blood-brain barrier, resulting in reduced sedation. Also has some mast cell stabilization properties.",
+    "indications": [
+      "Allergic rhinitis (seasonal and perennial hay fever)",
+      "Urticaria (hives — acute and chronic idiopathic)",
+      "Atopic dermatitis and allergic eczema",
+      "Allergic conjunctivitis",
+      "Angioedema (non-anaphylactic)",
+      "Physical urticarias",
+      "Pruritus associated with allergic skin conditions"
+    ],
+    "contraindications": [
+      "Hypersensitivity to cetirizine, hydroxyzine, or piperazine derivatives",
+      "Severe renal impairment (eGFR < 10 ml/min — use with caution)",
+      "End-stage renal disease",
+      "Children < 6 months (liquid formulation)"
+    ],
+    "sideEffects": [
+      "Somnolence/drowsiness (less than 1st generation — up to 14%)",
+      "Headache",
+      "Dry mouth (anticholinergic effect — mild)",
+      "Fatigue",
+      "GI: nausea, abdominal pain",
+      "Elevated liver enzymes (rare)",
+      "QT prolongation at very high doses (rare)"
+    ],
+    "drugInteractions": [
+      "CNS depressants (alcohol, benzodiazepines, opioids): increased sedation",
+      "Ritonavir: increases cetirizine levels by 40%",
+      "Azithromycin, erythromycin: possible QT prolongation (monitor ECG)",
+      "Anticholinergic drugs: additive dry mouth, urinary retention"
+    ],
+    "dosageForms": ["Tablets (10mg)", "Syrup (5mg/5ml)", "Oral solution drops (10mg/ml)"],
+    "adultDose": "10mg once daily. Or 5mg twice daily. Renal impairment (CrCl 11-31 ml/min): 5mg once daily.",
+    "pediatricDose": "6+ years: 5–10mg once daily. 2–5 years: 2.5mg once or twice daily. 1–2 years: 2.5mg once daily (under supervision).",
+    "pregnancySafety": "FDA Category B — Animal studies show no harm. Limited human data. Use with caution; loratadine may be preferred in some guidelines.",
+    "routeOfAdministration": ["Oral (PO)"],
+    "halfLife": "7 to 10 hours (elimination via kidneys — dose reduce in renal impairment)",
+    "storageConditions": "Store at room temperature 15–25°C. Syrup: refrigerate after opening (optional, stable at room temp for short periods).",
+    "monitoringParameters": [
+      "Symptom relief (rhinorrhea, sneezing, itching, urticaria resolution)",
+      "Renal function in elderly or renally impaired patients",
+      "Sedation (patient should not drive if affected)",
+      "Liver function tests if used long-term"
+    ],
+    "patientCounselling": [
+      "Can be taken with or without food",
+      "Evening dosing preferred if drowsiness occurs",
+      "Avoid alcohol — increases sedative effects",
+      "Do not drive or operate machinery if you feel drowsy",
+      "Adequate hydration helps with efficacy and dry mouth",
+      "Long-term use is generally safe for chronic urticaria/rhinitis"
+    ],
+    "faq": [
+      {
+        "question": "Is Cetirizine non-drowsy?",
+        "answer": "Cetirizine is a second-generation antihistamine with significantly less sedation than first-generation agents (e.g., Chlorpheniramine). However, it is NOT entirely non-drowsy — up to 14% of users report mild drowsiness, especially at higher doses. Levocetirizine or Fexofenadine are even less sedating."
+      },
+      {
+        "question": "Can I take Cetirizine every day?",
+        "answer": "Yes. Cetirizine is approved for long-term daily use for chronic urticaria and perennial allergic rhinitis. It does not cause tolerance (tachyphylaxis) with regular use, unlike some decongestants."
+      },
+      {
+        "question": "What is the difference between Cetirizine and Levocetirizine?",
+        "answer": "Levocetirizine is the pharmacologically active R-enantiomer of Cetirizine. It is twice as potent, allowing a lower dose (5mg vs 10mg) with fewer side effects and less sedation. Both are effective second-generation H1 antihistamines."
+      }
+    ],
+    "relatedDiseases": ["asthma"]
+  },
+  {
+    "id": "omeprazole",
+    "genericName": "Omeprazole",
+    "brandNames": ["Prilosec", "Omez", "Ocid", "Losec", "Omesec"],
+    "drugClass": "antacids",
+    "drugClassName": "Proton Pump Inhibitors (PPIs)",
+    "isTrending": false,
+    "isNew": true,
+    "shortUse": "Acid-related GI disorders, GERD, H. pylori eradication",
+    "mechanismOfAction": "A prodrug converted in the acidic environment of the parietal cell to the active sulfenamide form, which covalently and irreversibly binds to cysteine residues (Cys813 and Cys892) of the H+/K+ ATPase (proton pump). This prevents hydrogen ion pumping into the stomach lumen. As the first PPI developed, omeprazole is the prototype of the class.",
+    "indications": [
+      "Gastroesophageal Reflux Disease (GERD) treatment and maintenance",
+      "H. pylori eradication (triple therapy with amoxicillin + clarithromycin)",
+      "Peptic ulcer disease (gastric and duodenal ulcers)",
+      "Zollinger-Ellison syndrome",
+      "Prevention of NSAID-induced gastropathy",
+      "Erosive esophagitis",
+      "Dyspepsia (functional/non-ulcer)"
+    ],
+    "contraindications": [
+      "Hypersensitivity to omeprazole or any substituted benzimidazole",
+      "Concurrent use with rilpivirine, nelfinavir, or atazanavir",
+      "Severe hepatic impairment (dose adjustment)"
+    ],
+    "sideEffects": [
+      "Headache, nausea, diarrhea, abdominal pain (common, 3–7%)",
+      "Long-term: hypomagnesemia, hyponatremia, hypocalcemia",
+      "Osteoporosis-related fractures (hip, wrist, spine — long-term high-dose)",
+      "Vitamin B12 deficiency (long-term use > 2 years)",
+      "C. difficile-associated diarrhea (class effect)",
+      "Acute interstitial nephritis (rare, idiosyncratic)"
+    ],
+    "drugInteractions": [
+      "Clopidogrel: inhibits CYP2C19 activation of clopidogrel → reduced antiplatelet effect (use Pantoprazole instead)",
+      "Methotrexate: PPIs increase methotrexate toxicity (reduce elimination)",
+      "Atazanavir/Nelfinavir: reduced antiretroviral absorption",
+      "Warfarin: may increase anticoagulant effect (monitor INR)",
+      "Mycophenolate mofetil: reduced immunosuppressant absorption"
+    ],
+    "dosageForms": ["Capsules (10mg, 20mg, 40mg)", "Tablets (20mg)", "IV powder for injection (40mg vial)", "Oral suspension (2mg/ml)"],
+    "adultDose": "GERD: 20mg once daily for 4–8 weeks. Ulcers: 20–40mg once daily. Zollinger-Ellison: 60mg+ daily (individualized).",
+    "pediatricDose": "≥1 year, 5–9 kg: 5mg/day; 10–19 kg: 10mg/day; ≥20 kg: 20mg/day (GERD).",
+    "pregnancySafety": "FDA Category C — Avoid if possible in first trimester. Compatible with breastfeeding (only small amounts excreted in milk).",
+    "routeOfAdministration": ["Oral (PO)", "Intravenous (IV)"],
+    "halfLife": "0.5 to 1 hour (plasma half-life is short, but pharmacodynamic effect lasts 24–72 hours)",
+    "storageConditions": "Capsules: store at 20–25°C in dry conditions. IV vials: store at 25°C; use reconstituted solution within 4 hours.",
+    "monitoringParameters": [
+      "Symptom resolution (heartburn, regurgitation, dyspepsia)",
+      "Serum magnesium (annually with long-term use)",
+      "Bone mineral density with prolonged therapy",
+      "Vitamin B12 and folate levels",
+      "Renal function (risk of AIN)"
+    ],
+    "patientCounselling": [
+      "Take 30–60 minutes before a meal (especially breakfast)",
+      "Swallow capsules whole — if difficulty, can open and sprinkle granules on applesauce",
+      "PPIs are not for immediate heartburn relief — antacids work faster for that",
+      "Discuss regular assessment of PPI need with your doctor",
+      "Avoid long-term use without medical supervision — step-down and stop when possible"
+    ],
+    "faq": [
+      {
+        "question": "Why is Omeprazole not recommended with Clopidogrel?",
+        "answer": "Both Omeprazole and Clopidogrel are metabolized by CYP2C19. Omeprazole inhibits CYP2C19, reducing the conversion of clopidogrel (a prodrug) to its active antiplatelet metabolite. Pantoprazole is preferred in patients on clopidogrel as it has weaker CYP2C19 inhibition."
+      },
+      {
+        "question": "How long can I take Omeprazole?",
+        "answer": "Short-term use (4–8 weeks) is generally safe. Long-term use (>1 year) should only continue if there's an ongoing indication (e.g., Barrett's esophagus, NSAID use with high GI risk, Zollinger-Ellison). Risks increase with prolonged use."
+      },
+      {
+        "question": "Is Omeprazole the same as Pantoprazole?",
+        "answer": "They're both PPIs with similar efficacy for most indications. Key differences: Omeprazole has more drug interactions (stronger CYP2C19 inhibition, especially with clopidogrel). Pantoprazole is preferred in patients on clopidogrel or antiretrovirals. Pantoprazole's tablet is enteric-coated and slightly more stable."
+      }
+    ],
+    "relatedDiseases": ["gerd"]
+  }
+]

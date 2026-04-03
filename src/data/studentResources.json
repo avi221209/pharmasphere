@@ -1,0 +1,155 @@
+{
+  "notes": [
+    {
+      "id": 1,
+      "title": "Pharmacokinetics: ADME Principles",
+      "description": "Comprehensive notes on Absorption, Distribution, Metabolism, and Excretion with clinical relevance.",
+      "subject": "Pharmacology",
+      "level": "Undergraduate",
+      "pages": 24,
+      "downloadUrl": "#",
+      "icon": "📚"
+    },
+    {
+      "id": 2,
+      "title": "Drug-Drug Interactions: Clinical Significance",
+      "description": "A systematic review of pharmacokinetic and pharmacodynamic drug interactions with management strategies.",
+      "subject": "Clinical Pharmacy",
+      "level": "Postgraduate",
+      "pages": 38,
+      "downloadUrl": "#",
+      "icon": "⚗️"
+    },
+    {
+      "id": 3,
+      "title": "Cardiovascular Pharmacology: Complete Guide",
+      "description": "Detailed notes covering antihypertensives, antiarrhythmics, anticoagulants, and heart failure drugs.",
+      "subject": "Pharmacology",
+      "level": "Undergraduate",
+      "pages": 52,
+      "downloadUrl": "#",
+      "icon": "❤️"
+    },
+    {
+      "id": 4,
+      "title": "Antimicrobial Chemotherapy",
+      "description": "Classification, mechanism, spectrum, resistance patterns and clinical use of all antimicrobials.",
+      "subject": "Microbiology & Pharmacology",
+      "level": "Undergraduate",
+      "pages": 67,
+      "downloadUrl": "#",
+      "icon": "🦠"
+    },
+    {
+      "id": 5,
+      "title": "Pharmaceutical Calculations Made Easy",
+      "description": "Step-by-step worked examples for dosage calculations, IV drip rates, reconstitution, and more.",
+      "subject": "Pharmaceutical Sciences",
+      "level": "Foundation",
+      "pages": 31,
+      "downloadUrl": "#",
+      "icon": "🧮"
+    }
+  ],
+  "mcqs": [
+    {
+      "id": 1,
+      "question": "Which drug class is the first-line treatment for Type 2 Diabetes Mellitus?",
+      "options": ["Sulfonylureas", "Biguanides (Metformin)", "Thiazolidinediones", "DPP-4 Inhibitors"],
+      "correct": 1,
+      "explanation": "Metformin (a biguanide) is the recommended first-line pharmacological therapy for Type 2 DM due to its efficacy, safety profile, cardiovascular benefits, and low cost. ADA guidelines consistently recommend it unless contraindicated (e.g., severe renal impairment)."
+    },
+    {
+      "id": 2,
+      "question": "What is the mechanism of action of Proton Pump Inhibitors (PPIs)?",
+      "options": [
+        "Block H2 histamine receptors on parietal cells",
+        "Irreversibly inhibit H+/K+ ATPase enzyme on parietal cells",
+        "Neutralize gastric acid directly",
+        "Stimulate mucus secretion in the stomach"
+      ],
+      "correct": 1,
+      "explanation": "PPIs like Omeprazole and Pantoprazole irreversibly inhibit the H+/K+ ATPase (proton pump) on gastric parietal cells. This enzyme is the final step in acid secretion, so PPIs provide the most powerful acid suppression available."
+    },
+    {
+      "id": 3,
+      "question": "Atorvastatin belongs to which drug class?",
+      "options": ["Fibrates", "Bile acid sequestrants", "HMG-CoA reductase inhibitors (Statins)", "PCSK9 inhibitors"],
+      "correct": 2,
+      "explanation": "Atorvastatin is a statin that competitively inhibits HMG-CoA reductase, the rate-limiting enzyme in cholesterol biosynthesis in the liver. This reduces LDL cholesterol and has significant cardiovascular protective effects."
+    },
+    {
+      "id": 4,
+      "question": "Which penicillin antibiotic is commonly used for community-acquired pneumonia?",
+      "options": ["Methicillin", "Oxacillin", "Amoxicillin", "Cloxacillin"],
+      "correct": 2,
+      "explanation": "Amoxicillin is the preferred oral penicillin for community-acquired pneumonia (CAP) in outpatient settings due to its excellent bioavailability (>90%), broad spectrum against Streptococcus pneumoniae, and excellent tolerability."
+    },
+    {
+      "id": 5,
+      "question": "What is the primary concern with long-term use of NSAIDs like Ibuprofen?",
+      "options": [
+        "Nephrotoxicity only",
+        "GI ulceration, renal impairment, and cardiovascular risk",
+        "Hepatotoxicity only",
+        "CNS depression"
+      ],
+      "correct": 1,
+      "explanation": "Long-term NSAID use inhibits COX-1 and COX-2 enzymes. COX-1 inhibition reduces protective prostaglandins in the GI tract (→ ulcers), reduces renal blood flow (→ nephrotoxicity), and COX-2 inhibition may increase cardiovascular thrombotic risk."
+    },
+    {
+      "id": 6,
+      "question": "Cetirizine is classified as a:",
+      "options": [
+        "First-generation (sedating) antihistamine",
+        "Second-generation (non-sedating) antihistamine",
+        "H2 receptor antagonist",
+        "Mast cell stabilizer"
+      ],
+      "correct": 1,
+      "explanation": "Cetirizine is a second-generation H1 antihistamine. Unlike first-generation agents (e.g., Chlorpheniramine), it has minimal CNS penetration due to its zwitterionic nature at physiological pH, resulting in reduced sedation."
+    },
+    {
+      "id": 7,
+      "question": "The pregnancy safety category of Amlodipine is:",
+      "options": ["Category A", "Category B", "Category C", "Category X"],
+      "correct": 2,
+      "explanation": "Amlodipine is FDA Pregnancy Category C, meaning animal studies have shown adverse effects on the fetus, but there are no adequate human studies. It should only be used if the potential benefit justifies the potential risk."
+    },
+    {
+      "id": 8,
+      "question": "Which enzyme does Paracetamol (Acetaminophen) primarily inhibit?",
+      "options": [
+        "COX-1 peripherally",
+        "COX-2 preferentially",
+        "Central COX-3 (COX-1 variant in CNS)",
+        "Lipoxygenase"
+      ],
+      "correct": 2,
+      "explanation": "Paracetamol's mechanism is not fully elucidated but is thought to primarily inhibit a central COX variant (COX-3), reducing prostaglandin synthesis in the CNS. This explains its analgesic and antipyretic effects without significant peripheral anti-inflammatory action."
+    }
+  ],
+  "pdfResources": [
+    {
+      "id": 1,
+      "title": "WHO Essential Medicines List 2023",
+      "type": "Reference",
+      "url": "https://www.who.int/publications/i/item/WHO-MHP-HPS-EML-2023.02",
+      "description": "Official WHO list of essential medicines with dosages and indications."
+    },
+    {
+      "id": 2,
+      "title": "Goodman & Gilman's Pharmacology — Summary Guide",
+      "type": "Textbook Summary",
+      "url": "#",
+      "description": "Chapter-wise summary of the gold-standard pharmacology textbook."
+    },
+    {
+      "id": 3,
+      "title": "Clinical Pharmacokinetics Pocket Reference",
+      "type": "Quick Reference",
+      "url": "#",
+      "description": "Drug-specific PK parameters including t½, Vd, bioavailability, and protein binding."
+    }
+  ]
+}
